@@ -1,0 +1,6 @@
+@HeavyStringFiltering_HostAddress = http://localhost:5215
+
+GET {{HeavyStringFiltering_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
